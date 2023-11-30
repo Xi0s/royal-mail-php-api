@@ -1,0 +1,10 @@
+{
+  "invokerPackage": "RoyalMailV4\\ShipmentsApi",
+  "composerVendorName": "xi0s",
+  "composerProjectName": "royal-mail-php-api",
+  "variableNamingConvention": "camelCase",
+  "artifactVersion": "1.0.3",
+  "gitRepoBaseURL": "https://github.com/Xi0s/royal-mail-php-api",
+  "gitRepoId": "royal-mail-php-api",
+  "srcBasePath": "src"
+}
